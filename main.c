@@ -28,7 +28,7 @@ int main()
         if(b!=0){
            printf("%.2f / %.2f = %.2f \n", a,b,a / b);
         }else{
-            printf("number diviseur doit etre superieur a 0\n");
+            printf("Le diviseur n a pas a etre egal a 0\n");
         }
       break;
      default:
